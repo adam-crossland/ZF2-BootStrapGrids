@@ -1,0 +1,26 @@
+{
+    "name": "adam-crossland/bootstrap-grid",
+    "description": "ZF2 grid module",
+    "license": "GPL-3.0",
+    "keywords": ["grid", "zf2", "zendframework"],
+    "homepage": "https://github.com/adam-crossland/ZF2-BootstrapGrid",
+    "authors": [
+        {
+            "name": "Adam Crossland",
+            "email": "adam.crossland2011@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "AdamCrossland\\BootstrapGrid": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    "require-dev": {
+    }
+}
