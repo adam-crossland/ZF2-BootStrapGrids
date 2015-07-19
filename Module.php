@@ -1,5 +1,5 @@
 <?php
-namespace AdamCrossland\BootstrapGrid;
+namespace BootstrapGrid;
 
 use Zend\Mvc\ModuleRouteListener;
 use Zend\Mvc\MvcEvent;
