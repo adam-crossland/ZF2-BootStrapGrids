@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "AdamCrossland\\BootstrapGrid": "src/"
+        "psr-4": {
+            "BootstrapGrid\\": "src/BootstrapGrid"
         }
     },
     "minimum-stability": "dev",
