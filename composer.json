@@ -12,9 +12,12 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "BootstrapGrid\\": "src/BootstrapGrid"
-        }
+        "psr-0": {
+            "BootstrapGrid\\": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
     },
     "minimum-stability": "dev",
     "require": {
