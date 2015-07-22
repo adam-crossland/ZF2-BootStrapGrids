@@ -4,7 +4,7 @@ namespace BootstrapGrid;
 use Zend\Mvc\ModuleRouteListener;
 use Zend\Mvc\MvcEvent;
 
-class Module
+class Modulez
 {
 
 	public function onBootstrap(MvcEvent $e)

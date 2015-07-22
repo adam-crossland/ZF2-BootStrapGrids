@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "BootstrapGrid\\": "src/"
+            "adam-crossland": "src/"
         },
         "classmap": [
             "./Module.php"
